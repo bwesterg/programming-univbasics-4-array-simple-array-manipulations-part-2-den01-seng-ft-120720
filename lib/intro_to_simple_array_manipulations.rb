@@ -1,3 +1,3 @@
-def using_concat(A,B)
-  puts A.concat(B)
+def using_concat(a,b)
+  puts a.concat(b)
 end
