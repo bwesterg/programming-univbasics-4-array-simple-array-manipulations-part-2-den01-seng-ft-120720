@@ -13,3 +13,7 @@ end
 def using_flatten(a)
   a.flatten
 end
+
+def using_delete_at(a,integer)
+  a.delete_at(integer)
+end
