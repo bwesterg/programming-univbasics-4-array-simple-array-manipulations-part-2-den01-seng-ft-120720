@@ -20,6 +20,6 @@ end
 
 
 def using_delete(a,b)
-  a.flatten
+  a.delete(b)
 end
 
