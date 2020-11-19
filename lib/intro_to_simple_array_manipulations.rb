@@ -1,7 +1,3 @@
-def using_concat(a,b)
-  puts a.concat(b)
-end
-
-def using_insert(array, element)
-  puts array.insert(3, element)
+def using_concat(A,B)
+  puts A.concat(B)
 end
